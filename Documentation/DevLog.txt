@@ -1,2 +1,9 @@
 This is a document for my personal development log. Each coding session I will update this with my thoughts, progress, and what I have learned.
 I will attempt to date and time stamp each log accurately.
+
+8/20/2026 11:52AM
+
+    Finally got my overall framework installed in the project. I'm beginning the main app framework now in
+    App.txt, to be renamed as an appropriate code document.
+
+    Renamed to App.vue
