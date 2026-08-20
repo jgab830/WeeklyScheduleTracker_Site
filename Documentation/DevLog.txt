@@ -7,3 +7,6 @@ I will attempt to date and time stamp each log accurately.
     App.txt, to be renamed as an appropriate code document.
 
     Renamed to App.vue
+
+    Reinstalled and scaffolded the actual framework for Vue, and installed their code examples for learning
+    purposes.
